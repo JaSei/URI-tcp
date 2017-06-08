@@ -26,7 +26,7 @@ URI extension for UDP protocol
 
 =head2 protocol()
 
-return I<tcp>
+return I<udp>
 
 same as C<scheme> method
 
