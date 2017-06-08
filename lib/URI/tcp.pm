@@ -2,7 +2,7 @@ package URI::tcp;
 use strict;
 use warnings;
 
-our $VERSION = '0.1.1';
+our $VERSION = '0.1.2';
 
 use parent qw(URI::_server);
 

@@ -2,6 +2,10 @@ Revision history for Perl extension URI-tcp
 
 {{$NEXT}}
 
+0.1.2 2017-06-08T15:46:02Z
+
+    - add URI dependency
+
 0.1.1 2017-06-08T15:43:28Z
 
     - fix udp documentation
