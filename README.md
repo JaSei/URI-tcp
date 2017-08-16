@@ -24,6 +24,10 @@ return _tcp_
 
 same as `scheme` method
 
+# history
+
+Module `URI::tcp` was indexed by [SOAP::Lite](https://metacpan.org/pod/SOAP::Lite), but isn't possible to use it. This [pull request](https://github.com/redhotpenguin/soaplite/pull/31) change it.
+
 # contributing
 
 for dependency use [cpanfile](https://metacpan.org/pod/cpanfile)...

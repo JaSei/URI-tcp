@@ -2,7 +2,7 @@ package URI::tcp;
 use strict;
 use warnings;
 
-our $VERSION = '0.1.2';
+our $VERSION = '0.1.3';
 
 use parent qw(URI::_server);
 
@@ -39,6 +39,10 @@ sub protocol {
 
     return $self->scheme;
 }
+
+=head1 history
+
+Module C<URI::tcp> was indexed by L<SOAP::Lite>, but isn't possible to use it. This L<pull request|https://github.com/redhotpenguin/soaplite/pull/31> change it.
 
 =head1 contributing
 
